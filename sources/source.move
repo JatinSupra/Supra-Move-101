@@ -1,4 +1,4 @@
-module deploy_addr::Dinosaur_nestt {
+module deploy_addr::Dinosaur_Park {
     use supra_framework::event;
     use std::vector;
 
